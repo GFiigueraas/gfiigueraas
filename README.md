@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GFiigueraas](https://github.com/GFiigueraas)
 
-- 💬 Ask me about **CSS,HTML& Computer Hardware**
+- 💬 Ask me about **CSS,HTML & Computer Hardware**
 
 - 📫 How to reach me **gfiigueras05@gmail.com**
 
