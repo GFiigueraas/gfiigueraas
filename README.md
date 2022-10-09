@@ -129,11 +129,11 @@ If you are interested in knowing more, here below I leave more information. <br>
 
 - 🌱 I’m currently learning **java and databases as a programming student**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GFiigueraas](https://github.com/GFiigueraas)
+- 👨‍💻 All of my projects are available <a href="https://github.com/GFiigueraas">here</a>
 
 - 💬 Ask me about **CSS,HTML & Computer Hardware**
 
-- 📫 How to reach me **gfiigueras05@gmail.com**
+- 📫 How to reach me <a>mailto:gfigueras05@gmail.com</a>
   
-- 👨‍🎓Student Account **https://github.com/GFigueras03**
+- 👨‍🎓Student Account <a href="https://github.com/GFigueras03">GFigueras03</a>
 </body>
