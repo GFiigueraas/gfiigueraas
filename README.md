@@ -133,7 +133,7 @@ If you are interested in knowing more, here below I leave more information. <br>
 
 - 💬 Ask me about **CSS,HTML & Computer Hardware**
 
-- 📫 How to reach me <a>mailto:gfigueras05@gmail.com</a>
+- 📫 How to reach me <a href="mailto:gfigueras05@gmail.com">gfigueras05@gmail.com</a>
   
 - 👨‍🎓Student Account <a href="https://github.com/GFigueras03">GFigueras03</a>
 </body>
