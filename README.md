@@ -10,9 +10,15 @@
 If you are interested in knowing more, here below I leave more information. <br><div align="center">⬇️⬇️</div></h><br>
 
 <div align="center">
+
+
+
+<details>
+
+<summary>REDES SOCIALES</summary>
 <a href="" align>
 
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/WS1_0430-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 </a>
 <a href="https://www.instagram.com/guiillee_.03/">
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
@@ -20,7 +26,7 @@ If you are interested in knowing more, here below I leave more information. <br>
 <a href="https://www.linkedin.com/in/guillermo-figueras-b2997a240/">
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
-
+</details>
 </div>
 <div align="center">
 
@@ -95,19 +101,16 @@ If you are interested in knowing more, here below I leave more information. <br>
 <div style="display:flex; align-items:center; justify-content:center; gap:3px;">
 <a href="https://www.blizzard.com/es-es/">
 
-![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
+![Battle.net](https://img.shields.io/badge/WS1_21104-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 </a>
-<a href="https://www.epicgames.com/site/es-ES/home">
 
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-</a>
 <a href="https://www.riotgames.com/es">
 
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+![Riot Games](https://img.shields.io/badge/WS1YT-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 </a>
 <a href="https://steamcommunity.com/profiles/76561198340717076/">
 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Steam](https://img.shields.io/badge/WS1-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 </a>
 
 </div>
