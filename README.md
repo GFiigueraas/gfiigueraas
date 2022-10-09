@@ -1,4 +1,4 @@
-![texto_alternativo align="center"](video/X2Download_app-GF%C2%B4sBOT_Logo_Trailer-_1080p__AdobeExpress.gif)
+![texto_alternativo align="center"](X2Download_app-GF%C2%B4sBOT_Logo_Trailer-_1080p__AdobeExpress.gif)
 
 
 <h1 align="center" style="color:white;"><strong><font face="sans-serif">👋Hi!!, i'm G<span style="color:blueviolet;">F</span>igueras👋</font></strong></h1>
