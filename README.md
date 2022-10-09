@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="width= 90%;">
     
 ![texto_alternativo align="center"](X2Download_app-GF%C2%B4sBOT_Logo_Trailer-_1080p__AdobeExpress.gif)
 </div>
