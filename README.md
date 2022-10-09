@@ -129,7 +129,7 @@ If you are interested in knowing more, here below I leave more information. <br>
 
 - 🌱 I’m currently learning **java and databases as a programming student**
 
-- 👨‍💻 All of my projects are available <a href="https://github.com/GFiigueraas">here</a>
+- 👨‍💻 All of my projects are available <a href="https://github.com/GFiigueraas?tab=repositories">here</a>
 
 - 💬 Ask me about **CSS,HTML & Computer Hardware**
 
