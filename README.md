@@ -27,11 +27,11 @@ If you are interested in knowing more, here below I leave more information. <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gfigueras03&show_icons=true)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gfiigueraas&label=Profile%20views&color=0e75b6&style=flat" alt="gfiigueraas" /> </p>
 </div>
-<hr>
+
 <div class="list-item" >
 <h2 align="center" style="color:white; background-color:blueviolet;"><strong> ✨ DESIGN ✨</strong></h2>
 </div>
-<hr>
+
 <br>
 <div align="center">
 <a  href="https://www.adobe.com/es/products/photoshop/landpb.html?mv=search&mv=search&sdid=LZ32SYVR&ef_id=7233d3034d1218c2f0bdb03d863ea2d4:G:s&s_kwcid=AL!3085!10!79714721920047!79714789232193">
@@ -43,13 +43,8 @@ If you are interested in knowing more, here below I leave more information. <br>
 </a>
 <br><br>
 
-<hr>
-
-
-
 <div class="list-item">
 <h2 style="color:white; background-color:orange"><strong>📄 LENGUAGES 📄</strong></h2></div>
-<hr>
 <br>
 <a href="https://es.wikipedia.org/wiki/CSS">
 
@@ -66,10 +61,9 @@ If you are interested in knowing more, here below I leave more information. <br>
 </a>
 <br><br>
 
-<hr>
+
 <div class="list-item">
 <h2 style="color:white; font-size:16px;background-color:black "><strong>🖥️ OPERATING SYSTEMS I CAN WORK ON 🖥️</strong></h2></div>
-<hr>
 <br>
 <a href="https://es.wikipedia.org/wiki/GNU/Linux">
 
@@ -83,11 +77,8 @@ If you are interested in knowing more, here below I leave more information. <br>
 </a>
 <br>
 
-<hr>
-
 <div class="list-item">
 <h2 style="color:white; font-size:18px;background-color:green"><strong>❗ FRAMEWORKS I WANT TO LEARN ❗</strong></h2></div>
-<hr>
 <br>
 <a href="https://es.wikipedia.org/wiki/Bootstrap_(framework)">
 
@@ -98,11 +89,8 @@ If you are interested in knowing more, here below I leave more information. <br>
 </a>
 <br>
 
-<hr>
-
 <div class="list-item">
 <h2 style="color:white; font-size:18px;background-color:red"><strong>GAME-SOCIAL NETWORKS</strong></h2></div>
-<hr>
 <br>
 <div style="display:flex; align-items:center; justify-content:center; gap:3px;">
 <a href="https://www.blizzard.com/es-es/">
@@ -124,7 +112,6 @@ If you are interested in knowing more, here below I leave more information. <br>
 
 </div>
 <br>
-<hr>
 
 <br>
 <a href="https://es.wikipedia.org/wiki/Visual_Studio_Code">
