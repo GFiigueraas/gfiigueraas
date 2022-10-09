@@ -1,7 +1,7 @@
 <body>
 <center><img src = "Video/X2Download_app-GF´sBOT_Logo_Trailer-_1080p__AdobeExpress.gif"></img></center>
 <center>
-<h1 style="color:white;"><strong><font face="sans-serif">👋Hi!!, i'm G<span style="color:blueviolet;">F</span>igueras👋</font></strong></h1>
+<h1 align="center" style="color:white;"><strong><font face="sans-serif">👋Hi!!, i'm G<span style="color:blueviolet;">F</span>igueras👋</font></strong></h1>
 </center>
 <center><h3 style="color:white;"><strong><font face="sans-serif">👨‍💻 Whoami</font></strong></h3></center>
 <center><h><font  face="sans-serif">I am a young student passionate about the world of computing and programming. From a very young age I decided that I wanted to enter this world. I am currently studying web application development, and I have a professional degree in microcomputer systems and networks.
