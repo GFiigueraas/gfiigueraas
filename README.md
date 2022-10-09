@@ -1,16 +1,16 @@
-<div align="center" style="heigh= 1080px;">
-    
-![texto_alternativo align="center"](X2Download_app-GF%C2%B4sBOT_Logo_Trailer-_1080p__AdobeExpress.gif)
+<div align="center">
+
+![texto_alternativo align="center"](video/X2Download_app-GF%C2%B4sBOT_Logo_Trailer-_1080p__AdobeExpress.gif)
 </div>
 
 <h1 align="center" style="color:white;"><strong><font face="sans-serif">👋Hi!!, i'm G<span style="color:blueviolet;">F</span>igueras👋</font></strong></h1>
 
-<h3 style="color:white;"><strong><font face="sans-serif">👨‍💻 Whoami</font></strong></h3>
+<h3 style="color:white;" align="center"><strong><font face="sans-serif">👨‍💻 Whoami</font></strong></h3>
 <h><font  face="sans-serif">I am a young student passionate about the world of computing and programming. From a very young age I decided that I wanted to enter this world. I am currently studying web application development, and I have a professional degree in microcomputer systems and networks.
-If you are interested in knowing more, here below I leave more information. <br>⬇️⬇️</h><br>
+If you are interested in knowing more, here below I leave more information. <br><div align="center">⬇️⬇️</div></h><br>
 
-
-<a href="">
+<div align="center">
+<a href="" align>
 
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 </a>
@@ -21,17 +21,20 @@ If you are interested in knowing more, here below I leave more information. <br>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 
-
+</div>
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gfigueras03&show_icons=true)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gfiigueraas&label=Profile%20views&color=0e75b6&style=flat" alt="gfiigueraas" /> </p>
+</div>
 <hr>
-<div class="list-item">
-<h2 style="color:white; background-color:blueviolet;"><strong> ✨ DESIGN ✨</strong></h2>
+<div class="list-item" >
+<h2 align="center" style="color:white; background-color:blueviolet;"><strong> ✨ DESIGN ✨</strong></h2>
 </div>
 <hr>
 <br>
-<a href="https://www.adobe.com/es/products/photoshop/landpb.html?mv=search&mv=search&sdid=LZ32SYVR&ef_id=7233d3034d1218c2f0bdb03d863ea2d4:G:s&s_kwcid=AL!3085!10!79714721920047!79714789232193">
+<div align="center">
+<a  href="https://www.adobe.com/es/products/photoshop/landpb.html?mv=search&mv=search&sdid=LZ32SYVR&ef_id=7233d3034d1218c2f0bdb03d863ea2d4:G:s&s_kwcid=AL!3085!10!79714721920047!79714789232193">
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 </a>
@@ -133,7 +136,7 @@ If you are interested in knowing more, here below I leave more information. <br>
 
 <p>Visual studio code is the code editor I use mainly</p>
 <hr>
-
+</div>
 - 🔭 I’m currently working on [Fall-Of-The-Gods]()
 
 - 🌱 I’m currently learning **java and databases as a programming student**
@@ -144,64 +147,3 @@ If you are interested in knowing more, here below I leave more information. <br>
 
 - 📫 How to reach me **gfiigueras05@gmail.com**
 </body>
-<!-- <style>
-    body{
-        display:flex;
-    }
-.list-item {
-  height: 100%;
-  list-style: none;
-  color: white;
-  padding: 10px;
-  cursor: pointer;
-  transition: 0.4s ease;
-  /* border: 1px solid white; */
-  display: flex;
-  position: relative;
-  align-items:center;
-  justify-content:center;
-  text-align:center;
-}
-.list-item::after {
-  content: "";
-  position: absolute;
-  bottom: 12px;
-  left: 10px;
-  width: 0px;
-  height: 0px;
-  border-top: 2px solid white;
-  border-left: 2px solid transparent;
-  transition: 0.5s;
-  visibility: hidden;
-}
-.list-item::before {
-  content: "";
-  position: absolute;
-  bottom: 12px;
-  right: 10px;
-  width: 0px;
-  height: 0px;
-  border-top: 2px solid white;
-  border-left: 2px solid transparent;
-  transition: 0.5s;
-  visibility: hidden;
-}
-.list-item:hover::after,
-.list-item:hover::before {
-  width: 90.9%;
-  visibility: visible;
-}
-.list-item:hover {
-  transition: 0.2s ease;
-  transform: scale(1.1, 1.1);
-}
- h2{
-    transition: 0.4s ease;
-    width:100%;
-    height:100%;
-  /* border: 1px solid white; */
-  display: flex;
-   }
-</style>
-
-</center> -->
