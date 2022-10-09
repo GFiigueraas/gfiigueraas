@@ -124,13 +124,16 @@ If you are interested in knowing more, here below I leave more information. <br>
 <p>Visual studio code is the code editor I use mainly</p>
 <hr>
 </div>
-- 🔭 I’m currently working on [Fall-Of-The-Gods]()
+
+- 🔭 I’m currently working on <a href="https://github.com/GY-CODING">FALL OF THE GODS</a>
 
 - 🌱 I’m currently learning **java and databases as a programming student**
 
-- 👨‍💻 All of my projects are available at[https://github.com/GFiigueraas](https://github.com/GFiigueraas)
+- 👨‍💻 All of my projects are available at [https://github.com/GFiigueraas](https://github.com/GFiigueraas)
 
 - 💬 Ask me about **CSS,HTML & Computer Hardware**
 
 - 📫 How to reach me **gfiigueras05@gmail.com**
+  
+- 👨‍🎓Student Account **https://github.com/GFigueras03**
 </body>
