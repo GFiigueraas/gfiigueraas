@@ -2,11 +2,12 @@
 
 ![texto_alternativo align="center"](video/X2Download_app-GF%C2%B4sBOT_Logo_Trailer-_1080p__AdobeExpress.gif)
 </div>
+
 <h1 align="center" style="color:white;"><strong><font face="sans-serif">👋Hi!!, i'm G<span style="color:blueviolet;">F</span>igueras👋</font></strong></h1>
-</center>
-<center><h3 style="color:white;" align="center"><strong><font face="sans-serif">👨‍💻 Whoami</font></strong></h3></center>
-<center><h><font  face="sans-serif">I am a young student passionate about the world of computing and programming. From a very young age I decided that I wanted to enter this world. I am currently studying web application development, and I have a professional degree in microcomputer systems and networks.
-If you are interested in knowing more, here below I leave more information. <br>⬇️⬇️</h></center><br><center>
+
+<h3 style="color:white;"><strong><font face="sans-serif">👨‍💻 Whoami</font></strong></h3>
+<h><font  face="sans-serif">I am a young student passionate about the world of computing and programming. From a very young age I decided that I wanted to enter this world. I am currently studying web application development, and I have a professional degree in microcomputer systems and networks.
+If you are interested in knowing more, here below I leave more information. <br>⬇️⬇️</h><br>
 
 
 <a href="">
@@ -20,13 +21,10 @@ If you are interested in knowing more, here below I leave more information. <br>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 
-</center>
-<center>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gfigueras03&show_icons=true)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gfiigueraas&label=Profile%20views&color=0e75b6&style=flat" alt="gfiigueraas" /> </p>
-</center>
-<center>
 <hr>
 <div class="list-item">
 <h2 style="color:white; background-color:blueviolet;"><strong> ✨ DESIGN ✨</strong></h2>
@@ -43,9 +41,9 @@ If you are interested in knowing more, here below I leave more information. <br>
 <br><br>
 
 <hr>
-</center>
 
-<center>
+
+
 <div class="list-item">
 <h2 style="color:white; background-color:orange"><strong>📄 LENGUAGES 📄</strong></h2></div>
 <hr>
@@ -66,9 +64,6 @@ If you are interested in knowing more, here below I leave more information. <br>
 <br><br>
 
 <hr>
-</center>
-
-<center>
 <div class="list-item">
 <h2 style="color:white; font-size:16px;background-color:black "><strong>🖥️ OPERATING SYSTEMS I CAN WORK ON 🖥️</strong></h2></div>
 <hr>
@@ -86,8 +81,7 @@ If you are interested in knowing more, here below I leave more information. <br>
 <br>
 
 <hr>
-</center>
-<center>
+
 <div class="list-item">
 <h2 style="color:white; font-size:18px;background-color:green"><strong>❗ FRAMEWORKS I WANT TO LEARN ❗</strong></h2></div>
 <hr>
@@ -102,9 +96,7 @@ If you are interested in knowing more, here below I leave more information. <br>
 <br>
 
 <hr>
-</center>
 
-<center>
 <div class="list-item">
 <h2 style="color:white; font-size:18px;background-color:red"><strong>GAME-SOCIAL NETWORKS</strong></h2></div>
 <hr>
@@ -130,8 +122,7 @@ If you are interested in knowing more, here below I leave more information. <br>
 </div>
 <br>
 <hr>
-</center>
-<center>
+
 <br>
 <a href="https://es.wikipedia.org/wiki/Visual_Studio_Code">
 
@@ -142,8 +133,8 @@ If you are interested in knowing more, here below I leave more information. <br>
 
 <p>Visual studio code is the code editor I use mainly</p>
 <hr>
-</center>
-- 🔭 I’m currently working on [Fall-Of-The-Gods](https://github.com/GY-CODING/Fall-of-the-Gods)
+
+- 🔭 I’m currently working on [Fall-Of-The-Gods]()
 
 - 🌱 I’m currently learning **java and databases as a programming student**
 
@@ -153,7 +144,7 @@ If you are interested in knowing more, here below I leave more information. <br>
 
 - 📫 How to reach me **gfiigueras05@gmail.com**
 </body>
-<style>
+<!-- <style>
     body{
         display:flex;
     }
@@ -213,4 +204,4 @@ If you are interested in knowing more, here below I leave more information. <br>
    }
 </style>
 
-</center>
+</center> -->
